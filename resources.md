@@ -21,3 +21,6 @@ with a policy;
 Train agent to improve;
 based on positive/ negative reward (reinforcement).
 
+### Deep Learning
+> To be updated from existing research file.
+
